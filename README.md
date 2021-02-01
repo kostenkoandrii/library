@@ -21,4 +21,5 @@ pip install -r requirements.txt
 ```
 python3 manage.py runserver
 ```
-
+## After that go to next url:
+YourHost:YourPort/app/ 
